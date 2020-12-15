@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BairesDevTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Test Android</string>
+    <string name="nav_header_subtitle">Realizado para BairesDev</string>
+    <string name="nav_header_desc">Test BairesDev</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Google</string>
+    <string name="menu_gallery">Botones</string>
+    <string name="menu_slideshow">Proyectos</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
